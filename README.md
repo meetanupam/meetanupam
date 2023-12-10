@@ -55,6 +55,6 @@
 <a href="https://www.instagram.com/theanupamshakya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arjyo851" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/theanupamshakya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arjyo851" height="30" width="40" /></a>
 <a href="https://leetcode.com/theanupamshakya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arjyo851" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/arjyo77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arjyo851" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/theanupamshakya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arjyo851" height="30" width="40" /></a>
 </p>
 
