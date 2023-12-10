@@ -11,14 +11,14 @@
 - 🌱 I am currently learning MERN/MEAN. 
 - 👯 I’m looking to collaborate on web dev projects
 - 💬 Ask me About Web development and Web Technologies.
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arjyo77@gmail.com)](mailto:arjyo77@gmail.com) 
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:theanupamshakya@gmail.com)](mailto:theanupamshakya@gmail.com) 
 - ⚡ Fun fact: I love to go to the gym
-- Profile views:![](https://komarev.com/ghpvc/?username=arjyo851)
+- Profile views: ![](https://komarev.com/ghpvc/?username=theanupamshakya)
 
 <br>
 <h2>📊 Github Stats</h2>
 
-![Arjyo's github stats](https://github-readme-stats.vercel.app/api?username=arjyo851&theme=onedark)
+![Arjyo's github stats](https://github-readme-stats.vercel.app/api?username=theanupamshakya&theme=onedark)
 
 <br>
 
