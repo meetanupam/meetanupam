@@ -18,7 +18,7 @@
 <br>
 <h2>📊 Github Stats</h2>
 
-![Arjyo's github stats](https://github-readme-stats.vercel.app/api?username=theanupamshakya&theme=onedark)
+![Anupam's github stats](https://github-readme-stats.vercel.app/api?username=theanupamshakya&theme=onedark)
 
 <br>
 
