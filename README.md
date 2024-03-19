@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src ="./banner.png" />
+  <img src ="./banner-readme.png" />
   
 </div>
 
@@ -14,7 +14,7 @@
 
 - 🙋‍♂️ All about me is at **[My Website](https://anupamshakya.com/)**
 
-- 🔭 I’m currently working on `Something Intresting`.
+- 🔭 I’m currently working on `Something interesting`.
 
 - 🌱 I’m currently learning `MERN Stack` & Advanced DSA Concepts
 
