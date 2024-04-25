@@ -1,4 +1,4 @@
-/* <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Anupam Shakya</h1>
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Anupam Shakya</h1>
 
 
 <div align="center">
@@ -7,7 +7,6 @@
 </div>
 
  <br/>
-*/
 ## 👨🏻‍💻 About Me:
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
