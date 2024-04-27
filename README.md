@@ -1,10 +1,10 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Anupam Shakya</h1>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Anupam</h1>
 
   
 </div>
 
  <br/>
-## 👨🏻‍💻 About Me:
+👨🏻‍💻 About Me:
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
@@ -15,8 +15,6 @@
 - 🌱 I’m currently learning `MERN Stack` & Advanced DSA Concepts
 
 - 👯 I’m looking to collaborate for `Dev Projects`
-
-- 🤔 I’m looking for help with `Data Structures and Algorithms`
 
 - 💬 Ask me about anything, Except Maths :sweat_smile:
 
@@ -57,7 +55,7 @@
 </p>
 
 
-## 📊 My GitHub Data:
+## 📊 GitHub Stats:
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=callmeanupam&show_icons=true" />
