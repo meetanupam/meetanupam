@@ -25,7 +25,8 @@
 
 <hr>
 <br/>
-<h2> ## ❤️ Let's get connected: </h2>
+<h2>❤ Let's get connected: ❤</h2>
+<h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br>
 </div>
 
