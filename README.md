@@ -6,6 +6,8 @@
  <br/>
 👨🏻‍💻 About Me:
 
+<div>
+
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://anupamshakya.com/)**
@@ -21,6 +23,8 @@
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
 - ⚡ Fun fact: I waste most of my time playing games
+
+</div>
 
   <div align="center"> 
   <a href="mailto:ianupamshakya@gmail.com">
