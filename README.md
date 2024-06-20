@@ -24,9 +24,9 @@
 </div>
 
 <hr>
-
+<br/>
 ## ❤️ Let's get connected:
-
+<br>
 </div>
 
   <div align="center"> 
@@ -41,7 +41,7 @@
   </a>
 </div>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git,vercel" />
