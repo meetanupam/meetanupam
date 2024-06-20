@@ -1,8 +1,5 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Anupam</h1>
 
-  
-</div>
-
  <br/>
 👨🏻‍💻 About Me:
 
@@ -24,6 +21,7 @@
 
 - ⚡ Fun fact: I waste most of my time playing games
 
+</div>
 
 <hr>
 
