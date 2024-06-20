@@ -24,6 +24,11 @@
 
 - ⚡ Fun fact: I waste most of my time playing games
 
+
+<hr>
+
+## ❤️ Let's get connected:
+
 </div>
 
   <div align="center"> 
