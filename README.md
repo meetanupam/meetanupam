@@ -25,7 +25,7 @@
 
 <hr>
 <br/>
-<h2> ## ❤️ Let's get connected:
+<h2> ## ❤️ Let's get connected: </h2>
 <br>
 </div>
 
