@@ -58,7 +58,7 @@
 
 ## ❤ Views and Followers
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/callmeanupam/">
     <img src="https://komarev.com/ghpvc/?username=callmeanupam">
 </a>
 <a href="https://github.com/callmeanupam?tab=followers"><img src="https://img.shields.io/github/followers/callmeanupam?label=Followers&style=social" alt="GitHub Badge"></a>
