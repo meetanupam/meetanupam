@@ -49,19 +49,18 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,C++" /><br>
 </div>
 
-## ❤ Views and Followers
-
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=callmeanupam">
-</a>
-<a href="https://github.com/callmeanupam?tab=followers"><img src="https://img.shields.io/github/followers/PrinceSinghhub?label=Followers&style=social" alt="GitHub Badge"></a>
-
-<br/>
-
-
 ## 📊 GitHub Stats:
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=callmeanupam&show_icons=true" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=callmeanupam&" alt="callmeanupam" />
 </div>
+
+## ❤ Views and Followers
+
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=callmeanupam">
+</a>
+<a href="https://github.com/callmeanupam?tab=followers"><img src="https://img.shields.io/github/followers/callmeanupam?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<br/>
