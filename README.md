@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on `Something interesting`.
 
-- 🌱 I’m currently learning `MERN Stack` & Advanced DSA Concepts
+- 🌱 I’m currently learning `Backend` & Advanced DSA Concepts
 
 - 👯 I’m looking to collaborate for `Dev Projects`
 
