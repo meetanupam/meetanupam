@@ -52,14 +52,14 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=callmeanupam&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=meetanupam&show_icons=true" />
 </div>
 
 ## ❤ Views and Followers
 
-<a href="https://github.com/callmeanupam/">
-    <img src="https://komarev.com/ghpvc/?username=callmeanupam">
+<a href="https://github.com/meetanupam/">
+    <img src="https://komarev.com/ghpvc/?username=meetanupam">
 </a>
-<a href="https://github.com/callmeanupam?tab=followers"><img src="https://img.shields.io/github/followers/callmeanupam?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/meetanupam?tab=followers"><img src="https://img.shields.io/github/followers/meetanupam?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <br/>
