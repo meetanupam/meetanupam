@@ -41,8 +41,19 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=meetanupam&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=meetanupam&show_icons=true" alt="Anupam's GitHub Stats" />
+  <br/><br/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meetanupam" alt="Anupam's GitHub Streak Stats" />
+  <br/><br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetanupam&layout=compact&langs_count=8" alt="Top Languages" />
+  <br/><br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=meetanupam" alt="Anupam's Coding Activity on WakaTime" />
 </div>
+
+### 🔢 Total Lines of Code:
+```bash
+echo "Anupam has written over $(curl -s https://api.github.com/users/meetanupam | jq '.public_repos') lines of code!"
+
 
 ## ❤ Views and Followers:
 <div align="center">
