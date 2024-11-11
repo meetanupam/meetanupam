@@ -8,6 +8,13 @@ projects
 - [SDE Internships & Jobs](https://codevize.com/)
 
 <br>
+## ⚒️ Languages, Frameworks & Tools:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,html,css,vscode,github,figma,tailwind,git,vercel" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,firebase,mongodb,c,cpp,mysql,react,express,nextjs" />
+</div>
+
+<br>
 <details>
 
 
@@ -19,9 +26,6 @@ projects
 - 🔭 Working on something exciting in tech.
 - 🌱 Focused on **Backend Dev** and **DSA**.
 - 👯 Open to **Dev project collaborations**.
-- 💬 Ask me anything—except maybe math! 😅
-- 🎯 **Hack**: Keep learning & sharing.
-- ⚡ **Fun fact**: I game when I should work!
 
 
 </div>
@@ -42,11 +46,7 @@ projects
 
 <br/>
 
-## ⚒️ Languages, Frameworks & Tools:
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,html,css,vscode,github,figma,tailwind,git,vercel" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,firebase,mongodb,c,cpp,mysql,react,express,nextjs" />
-</div>
+
 
 ## 📊 GitHub Stats:
 <div align="center">
