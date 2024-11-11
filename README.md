@@ -16,8 +16,8 @@ Building elegant products, sharing tech insights, and coding with passion 🚀
 
 ## ⚒️ Languages, Frameworks & Tools:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,html,css,vscode,github,figma,tailwind,git,vercel" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,firebase,mongodb,c,cpp,mysql,react,express,nextjs" />
+    <img src="https://skillicons.dev/icons?i=aws,digitalocean,html,css,vscode,github,figma,tailwind,git,vercel,firebase" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,go,mongodb,cpp,mysql,react,express,nextjs,corejava,prisma" />
 </div>
 
 <br>
