@@ -1,13 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=meetanupam)
 
 <br>
-<h3>most active on [X/Twitter](https://x.com/theanupamshakya)</h3>
+<sub>most active on [X/Twitter](https://x.com/theanupamshakya)</sub>
 
 <br>
 
 Building elegant products, sharing tech insights, and coding with passion 🚀
 
-<br>
+
 ### Projects
 
 - [Build Your ATS Friendly Resume](https://resumify-official.vercel.app/)
