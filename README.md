@@ -21,7 +21,7 @@ Building elegant products, sharing tech insights, and coding with passion 🚀
 </div>
 
 <br>
-<details>
+<More>
 <br>
 <div>
 <img src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
