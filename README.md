@@ -5,17 +5,17 @@
 ## 👨🏻‍💻 About Me:
 <div>
 <img src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+  
+- 🙋‍♂️ **[My Website](https://anupamshakya.in/)** to learn more about me!
+- 🔭 Working on something exciting in tech.
+- 🌱 Focused on **Backend Dev** and **DSA**.
+- 👯 Open to **Dev project collaborations**.
+- 💬 Ask me anything—except maybe math! 😅
+- 🎯 **Hack**: Keep learning & sharing.
+- ⚡ **Fun fact**: I game when I should work!
 
-- 🙋‍♂️ Check out **[My Website](https://anupamshakya.in/)** to learn more about me!
-- 🔭 Currently working on something exciting in the world of tech.
-- 🌱 I’m deep diving into **Backend Development** and **Advanced Data Structures & Algorithms**.
-- 👯 I’m open to collaborations on **interesting Dev projects**.
-- 💬 Feel free to ask me anything—though I might pass on math! 😅
-- 🎯 **Life Hack**: Always keep learning and share your knowledge with others.
-- ⚡ **Fun fact**: I’m often found playing games when I should be working!
 
 </div>
-
 <hr>
 
 ## ❤ Let's Get Connected:
