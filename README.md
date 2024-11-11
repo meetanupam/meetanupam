@@ -2,7 +2,8 @@
 <br>
 <sub>most active on [X/Twitter](https://x.com/theanupamshakya)</sub>
 <br>
-
+Building elegant products, sharing tech insights, and coding with passion 🚀
+<br>
 projects
 
 - [Build Your ATS Friendly Resume](https://resumify-official.vercel.app/)
@@ -19,8 +20,7 @@ projects
 
 <br>
 <details>
-
-
+<br>
 <div>
 <img src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
   
@@ -43,25 +43,5 @@ projects
   </a>
   <a href="https://anupamshakya.in" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
-</div>
-
-<br/>
-
-## 📊 GitHub Stats:
-<div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=meetanupam&show_icons=true" alt="Anupam's GitHub Stats" />
-  
-</div>
-
-
-
-## ❤ Views and Followers:
-<div align="center">
-  <a href="https://github.com/meetanupam/">
-    <img src="https://komarev.com/ghpvc/?username=meetanupam" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/meetanupam?tab=followers">
-    <img src="https://img.shields.io/github/followers/meetanupam?label=Followers&style=social" alt="GitHub Followers" />
   </a>
 </div>
