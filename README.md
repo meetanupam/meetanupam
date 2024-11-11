@@ -1,6 +1,13 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Anupam</h1>
 
-<br/>
+projects
+
+- [Build Your ATS Friendly Resume](https://resumify-official.vercel.app/)
+- [My Portfolio](https://anupamshakya.in)
+- [SDE Internships & Jobs](https://codevize.com/)
+
+<br>
+<details>
+
 
 ## 👨🏻‍💻 About Me:
 <div>
@@ -49,6 +56,7 @@
 </div>
 
 
+<sub>most active on [X/Twitter](https://x.com/theanupamshakya)</sub>
 
 ## ❤ Views and Followers:
 <div align="center">
