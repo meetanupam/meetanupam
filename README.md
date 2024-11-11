@@ -49,9 +49,6 @@ projects
 ## 📊 GitHub Stats:
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=meetanupam&show_icons=true" alt="Anupam's GitHub Stats" />
-  <br/><br/>
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetanupam&layout=compact&langs_count=8" alt="Top Languages" />
   
 </div>
 
