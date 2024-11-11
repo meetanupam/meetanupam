@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=meetanupam)
+<sub>most active on [X/Twitter](https://x.com/theanupamshakya)</sub>
 <br>
 
 projects
@@ -8,6 +9,7 @@ projects
 - [SDE Internships & Jobs](https://codevize.com/)
 
 <br>
+
 ## ⚒️ Languages, Frameworks & Tools:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,html,css,vscode,github,figma,tailwind,git,vercel" />
@@ -18,7 +20,6 @@ projects
 <details>
 
 
-## 👨🏻‍💻 About Me:
 <div>
 <img src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
   
@@ -46,8 +47,6 @@ projects
 
 <br/>
 
-
-
 ## 📊 GitHub Stats:
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=meetanupam&show_icons=true" alt="Anupam's GitHub Stats" />
@@ -55,7 +54,6 @@ projects
 </div>
 
 
-<sub>most active on [X/Twitter](https://x.com/theanupamshakya)</sub>
 
 ## ❤ Views and Followers:
 <div align="center">
