@@ -1,7 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=meetanupam)
 <br>
-<sub>Most Active on [X/Twitter](https://x.com/theanupamshakya)</sub>
-<br>
 
 Building elegant products, sharing tech insights, and coding with passion 🚀
 
