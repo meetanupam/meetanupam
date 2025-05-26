@@ -3,13 +3,6 @@
 
 Building elegant products, sharing tech insights, and coding with passion 🚀
 
-
-### Projects
-
-- [Build Your ATS Friendly Resume](https://resumify-official.vercel.app/)
-- [My Portfolio](https://anupamshakya.in)
-- [SDE Internships & Jobs](https://codevize.com/)
-
 <br>
 
 ## ⚒️ Languages, Frameworks & Tools:
